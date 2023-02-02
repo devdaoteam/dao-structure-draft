@@ -53,8 +53,7 @@ and introduce the influence factor (coefficient) $F$, then:
 $F = \frac{V}{P}$
 
 The more participants there are, the more difficult it is to get hold of all the tokens.
-Therefore, the larger the Dao, the more votes tokens can mean. $F
-\sim M$.
+Therefore, the larger the Dao, the more votes tokens can mean. $F \sim M$.
 
 $F = rM$, where $r$ is the proportionality coefficient.
 
