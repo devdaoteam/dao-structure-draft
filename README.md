@@ -70,8 +70,7 @@ $F_{2} = \frac{V_{2}}{P_{2}} = \frac{11}{0.5} = 22$.
 
 ##### Output $r$:
 
-$r = \frac{\Delta F}{\Delta M} = \frac{F_{2} - F{1}}{M_{2} - M_{1}}
-= \frac{22 - 2}{102 - 2} = \frac{20}{100} = 0.2$
+$r = \frac{\Delta F}{\Delta M} = \frac{F_{2} - F{1}}{M_{2} - M_{1}} = \frac{22 - 2}{102 - 2} = \frac{20}{100} = 0.2$
 
 
 ### Application 
