@@ -2,7 +2,7 @@
 
 Structure in 3 types of smart contracts (counting NFT and collection as
 one contract):
-- Main DevDao Contract
+- Main DevDao Contract (Tokensig)
 - Distributor for employees of the "service sector" DevDao
 - Distributor-project, or Project Contract
 
