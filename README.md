@@ -61,11 +61,11 @@ $F = rM$, where $r$ is the proportionality coefficient.
 ##### To output the coefficient, let's simulate the situation:
 
 Let's say if the Dao consists of $M_{1}=2$ people, owning half of the tokens
-($C = \frac{1}{2}\times{E} \Rightarrow P = 0.5$) should give $V_{1} = 1$
+( $C = \frac{1}{2}\times{E} \Rightarrow P = 0.5$ ) should give $V_{1} = 1$
 voice. Then $F_{1} = \frac{V_{1}}{P_{1}} = \frac{1}{0.5} = 2$.
 
 And even if the Dao consists of $M_{2}= 102$ people, owning
-half of the tokens ($P = 0.5$) will give $V_{2} = 11$ votes. Then
+half of the tokens ( $P = 0.5$ ) will give $V_{2} = 11$ votes. Then
 $F_{2} = \frac{V_{2}}{P_{2}} = \frac{11}{0.5} = 22$.
 
 ##### Output $r$:
